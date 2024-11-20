@@ -1,6 +1,6 @@
 # AK-Sec Malware Analysis
 
-Welcome to my malware analysis repository. I'm a cybersecurity professional looking to document my journey in learning malware analysis. This space is dedicated to documenting my journey in understanding malicious software, sharing insights, and providing practical resources for cybersecurity enthusiasts looking to deepen their understanding of malware.
+This space is dedicated to documenting my journey in understanding malicious software, sharing insights, and providing practical resources for cybersecurity enthusiasts looking to deepen their understanding of malware.
 
 ## What to Expect
 
